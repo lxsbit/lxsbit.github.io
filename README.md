@@ -1,6 +1,6 @@
 ## Hello Hexo
 
-On 2018.04.16, I begin using Hexo to build my blog.
+On 16th April 2018, I begin using Hexo to build my blog.
 
 Hexo is a powerful blog framework, I can easily write anything about machine learning and my life in markdown, then just do `hexo g` and `hexo d` to generate and deploy my blog to lxsbit.github.io.
 
